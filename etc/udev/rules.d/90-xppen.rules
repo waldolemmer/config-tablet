@@ -1,0 +1,2 @@
+ACTION=="add", SUBSYSTEMS=="usb", ATTR{product}=="6 inch PenTablet", RUN+="/usr/bin/on-tablet-add.sh"
+ACTION=="remove", SUBSYSTEMS=="usb", ATTR{product}=="6 inch PenTablet", RUN+="/usr/bin/on-tablet-remove.sh"
