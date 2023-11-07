@@ -1,0 +1,32 @@
+device_name="UGTABLET 6 inch PenTablet Keyboard"
+[[remap]]
+input = ["KEY_B"]
+output = ["KEY_LEFTCTRL", "KEY_6"]
+
+[[remap]]
+input = ["KEY_E"]
+output = ["KEY_LEFTCTRL", "KEY_X"]
+
+[[remap]]
+input = ["KEY_LEFTALT"]
+output = ["KEY_LEFTCTRL", "KEY_D"]
+
+[[remap]]
+input = ["KEY_SPACE"]
+output = ["KEY_LEFTCTRL", "KEY_5"]
+
+[[remap]]
+input = ["KEY_LEFTCTRL", "KEY_S"]
+output = ["KEY_LEFTCTRL", "KEY_2"]
+
+[[remap]]
+input = ["KEY_LEFTCTRL", "KEY_Z"]
+output = ["KEY_LEFTALT"]
+
+[[remap]]
+input = ["KEY_KPPLUS"]
+output = ["KEY_LEFTSHIFT", "KEY_Z"]
+
+[[remap]]
+input = ["KEY_KPMINUS"]
+output = ["KEY_Z"]
